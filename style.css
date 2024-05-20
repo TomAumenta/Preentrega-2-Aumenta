@@ -21,14 +21,14 @@ body {
 
 button {
     padding: 5px 10px;
-    background-color: #28a745;
+    background-color: #288ea7;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: #282188;
 }
 
 #buscar {

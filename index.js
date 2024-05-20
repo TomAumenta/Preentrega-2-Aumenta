@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const productos = [
-        { nombre: 'Procesador Ryzen 3 3200g', precio: 100000 },
+        { nombre: 'Ryzen 3 3200g', precio: 100000 },
         { nombre: 'Ryzen 5 5600g', precio: 200000 },
         { nombre: 'Memoria Ram ddr5 8gb', precio: 25000 },
         { nombre: 'Monitor Gamer 144hz', precio: 280000 },

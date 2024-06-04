@@ -1,3 +1,5 @@
+
+/* style.css */
 body {
     font-family: Arial, sans-serif;
 }
@@ -38,3 +40,13 @@ button:hover {
     box-sizing: border-box;
 }
 
+.notificacion {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+}
